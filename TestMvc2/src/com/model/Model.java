@@ -7,7 +7,7 @@ public class Model {
 	int age;
 	int salary;
 	int id;
-	int change;
+	int change2;
 	public String getName() {
 		return name;
 	}
