@@ -6,6 +6,7 @@ public class Model {
 	int age;
 	int salary;
 	int id;
+	int test;
 	public String getName() {
 		return name;
 	}
